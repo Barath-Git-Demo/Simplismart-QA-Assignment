@@ -86,6 +86,7 @@ To execute only API tests:
 
 8. Reporting
 
+To open the detailed results, download report.html file as raw and Open it in your browser.
 Location of test execution reports (e.g., reports/report.html, log.html).
 Reports will be generated in the reports/ directory:
 
